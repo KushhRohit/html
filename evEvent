@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>evEvent</title>
+    </head>
+    <link rel="stylesheet" href="style.css">
+    <body>
+        
+        <nav class="navbar">
+            <ul> 
+            <li><a href="https://www.google.com/">Home </a></li>
+            <li><a href="service.html.html">Services  </a></li>
+            <li><a href="correct sign up.html">Contact us</a></li>
+            <li><a href="">About us</a></li>
+            <div class="search">
+                <input type="text" name="search" id="search" placeholder="Search Events">
+            </div>
+          
+        </ul>
+        </nav>
+        <h1><centeR>evEvent</centER></h1> 
+        <img src="seminar.jpeg">
+        <img src="wedding.jpg" class="image2">
+        <img src="standup.jpg"class="image3">
+        <h3 class="text1">Seminar</h3>
+        <h3 class="text2">Wedding</h3>
+        <h3 class="text3">Stand-up</h3>
+        <p> And many more events...</p>
+        
+       
+
+        
+        </body>
+        </html>
+        
